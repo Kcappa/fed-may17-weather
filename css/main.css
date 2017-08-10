@@ -1,0 +1,17 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  background-color: rgba(231, 62, 25, 0.87);
+  color:#fff;
+  font-family: 'Alfa Slab One', Impact, sans-serif;
+  font-size: 1em;
+}
+
+.city{
+  text-align: center;
+  font-size: 3em;
+  text-transform: uppercase;
+  margin: .25em 0;
+}
